@@ -1,5 +1,5 @@
 /*
-Joe Hollon
+Baric
 cis 1202
 Cutting Strings and reversing them
 july-27-2018
